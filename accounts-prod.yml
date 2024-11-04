@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Prashant Bhat - Product Owner"
-    email: "prashant@eazybank.com"
+    email: "{cipher}614dc272aa021864b2181bc98e68998357f599afc06cc83211effc8d4dea835c945e409fcb4c3970aae107a233e284d6"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
