@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
     name: "Swapnil Mishra - Product Owner"
-    email: "swapnil@eazybank.com"
+    email: "{cipher}61a8560d6083d7b57799d90bff1676af8442ca00c8d3ceaa5d99d7663d1a84eae3001f898a3ef303bcc4621dbff522af"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
