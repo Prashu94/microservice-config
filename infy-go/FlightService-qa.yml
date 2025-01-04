@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/flightdb_qa
     username: prashant
-    password: admin123@
+    password: "{cipher}f27e88684f172b532640f272fcf3c015d83a9c14f19bab2336ea10ce258dec06"
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
     hibernate:
