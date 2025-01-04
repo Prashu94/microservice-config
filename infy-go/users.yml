@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/userdb
+    username: prashant
+    password: admin123@
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+build:
+  version: "3.0"
+
+users:
+  message: "Welcome to InfyGo User Related Service"
+  contactDetails:
+    name: "Prashant Bhat - Developer"
+    email: "prashant@infygo.com"
+  onCallSupport:
+    - (91) 1234567890
+    - (91) 0987654321
