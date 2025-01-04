@@ -1,1 +1,21 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/bookingdb_qa
+    username: prashant
+    password: admin123@
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+build:
+  version: "2.0"
 
+booking:
+  message: "Welcome to InfyGo Booking Related Service"
+  contactDetails:
+    name: "Swapnil Mishra - QA LEad"
+    email: "swapnil@infygo.com"
+  onCallSupport:
+    - (91) 1234567891
+    - (91) 0987654322
